@@ -16,7 +16,7 @@ AI-Final-Project是依據以上論文實現，以GRU雙向RNN進行文章與問�
 python main.py
 ```
   
-TensorBoard 模型圖示:
+TensorBoard 模型圖示，開啟windows powershell，將路徑切換至log資料夾: 
 ```
 tensorboard --logdir='./20190111182231/'
 ```
