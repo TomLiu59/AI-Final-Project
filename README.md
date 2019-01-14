@@ -18,7 +18,7 @@ python main.py
   
 TensorBoard 模型圖示:
 ```
-tensorboard --logdir='./xxxxx/'
+tensorboard --logdir='./20190111182231/'
 ```
 **Test（CBTest）:**
   
